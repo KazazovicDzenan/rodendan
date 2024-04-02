@@ -1,0 +1,61 @@
+body {
+    background-color: #add8e6; /* Baby plava pozadina */
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.container {
+    background-color: #ffc0cb; /* Baby roza kontejner */
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 30px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+}
+
+h1 {
+    color: #ff1493; /* Dodjela baby roze boje h1 elementu */
+}
+
+p {
+    font-size: 18px;
+    color: #333;
+    line-height: 1.6;
+}
+.gif {
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+}
+.slike{
+    width: 100%;
+    height:650px;
+    
+}
+.slika{
+    width: 250px;
+    height: 300px;
+}
+.okvir{
+    width: 94%;
+    margin: 15px;
+    background-color: #ffc0cb;
+    padding: 30px;
+    border-radius: 30px;
+}
+.uspomene{
+    color: #ff1493;
+    font-size: 30px;
+}
+#cistac {
+    height: 50px;
+}
+.cestitka{
+    display: inline-block;
+    width: 50%;
+    margin: 15px;
+    background-color: #E5DDC5;
+    padding: 30px;
+    border-radius: 30px;
+}
